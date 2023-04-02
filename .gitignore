@@ -1,0 +1,28 @@
+# Flutter/Dart-specific files
+**/.dart_tool/
+**/build/
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/Podfile.lock
+**/android/.gradle/
+**/android/build/
+**/android/local.properties
+**/android/gradle/
+**/android/gradlew
+**/android/gradlew.bat
+
+# Android-specific files
+**/android/app/debug.keystore
+**/android/app/release.keystore
+
+# iOS-specific files
+**/ios/Runner.xcworkspace/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Generated.xcconfig
+
+# Visual Studio Code files
+**/.vscode/
+
+# Android Studio files
+**/.idea/
